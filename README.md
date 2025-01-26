@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Finance integration project**
+- 🔭 I’m currently working on **React-native mobile applications**
 
-- 🌱 I’m currently learning **IoT, Node.js**
+- 🌱 I’m currently learning **IoT, Node.js, React-native**
 
 - 👯 I’m looking to collaborate on **IoT projects**
 
