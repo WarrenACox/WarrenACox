@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **IoT, Node.js, React-native**
 
-- 👯 I’m looking to collaborate on **IoT projects**
+- 👯 I’m looking to collaborate on **Mobile applications**
 
 - 💬 Ask me about **C#, Web forms, .NET, Web API's**
 
